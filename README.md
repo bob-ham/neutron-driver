@@ -30,3 +30,5 @@ im also going to add the following commands later:
 
 **NEUTRON_HIDE_PROCESS/NEUTRON_ISOLATE_PROCESS**
 - hides/isolates a process so other processes cannot see it
+
+## IM SOON GOING TO PORT THIS TO WINDOWS! GET READY ##
