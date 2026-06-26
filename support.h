@@ -5,6 +5,8 @@
 #include <linux/mm.h>
 #include <linux/sched.h>
 
+// THIS I DID USE ai for lol
+
 /*
  * Compatibility wrapper for vm_flags_reset (introduced in 6.3)
  */
