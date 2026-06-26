@@ -12,7 +12,7 @@
 // ----------------------------------------------
 // added _MPROTECT, _READ, _WRITE, _STOP, _CONT, _ATTACH, _DETACH (7)
 // added flags _HIDE_THREAD, _VERBOSE, _UNSAFE (3) [NOTE _CREATE_THREAD and _HIDE_THREAD ARE GONE]
-// need to add flag _HIDE_THREAD (1)
+// need to add flag _HIDE_THREAD (1) <- this is not needed anymore, im not creating any more threads
 // need to add _AOB_SCAN, _POKEHOLE, _QUERY_MEMORY (added _QUERY_MEM in 6-21-26), 
 // _VIRTUAL_MEMD, _VIRTUAL_MEMFR, _CORE_INJECT (6)
 // ----------------------------------------------
