@@ -117,7 +117,6 @@ namespace NEUTRON
         }
         
 
-        // ** IF THE USER WANTS TO HIJACK A THREAD, THAT IS THE USERS CHOICE NOT MINE **
 
         // -----------------------
         // STOP/PROT SECTION
